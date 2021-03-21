@@ -6,7 +6,7 @@ I like coffee ☕ and cookies🍪
 
 #### Contact
 <p>
-  <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-4A63E7?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://give-u.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-4A63E7?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:giveu051@gmail.com" target="_blank"><img src="https://img.shields.io/badge/giveu051@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/give-u/" target="_blank"><img src="https://img.shields.io/badge/give_u-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
